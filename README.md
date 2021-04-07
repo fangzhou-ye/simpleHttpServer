@@ -1,1 +1,1 @@
-# simpleHttpServer
+# superTinyHttpServer
